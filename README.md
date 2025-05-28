@@ -1,4 +1,4 @@
-🚢 Titanic Survival Prediction App
+**🚢 Titanic Survival Prediction App**
 
 app_link: https://xgboosttitanic-vishal-pate.streamlit.app/
 
@@ -15,10 +15,10 @@ This app is powered by a Logistic Regression model trained on the historical Tit
 
 📦 Modular & Clean Code Organized with separate files for the model, scaler, encoders, and app logic.
 
-🖥️ Technologies Used
-Python 🐍
-Streamlit 🎈
-Scikit-learn 🤖
-Pandas & NumPy 🔢
-Matplotlib & Seaborn 📉
-Pickle 🥒 (for model saving)
+🖥️ Technologies Used:-
+Python ,
+🐍Streamlit ,
+🎈Scikit-learn,
+🤖Pandas & NumPy,
+🔢Matplotlib & Seaborn,
+📉Pickle 🥒 (for model saving)
