@@ -17,9 +17,9 @@ This app is powered by a Logistic Regression model trained on the historical Tit
 
 🖥️ Technologies Used:-
 
-Python ,
+🐍Python ,
 
-🐍Streamlit ,
+🥒Streamlit ,
 
 🎈Scikit-learn,
 
